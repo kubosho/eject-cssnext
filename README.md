@@ -14,3 +14,5 @@ It has some reasons:
   - Contains plugin hardly used
 - I think not applicable to `Do one thing, and do it well` in [PostCSS Plugin Guidelines](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md)
 - Some PostCSS plugin behaves differently specs
+
+Unfortunately postcss-cssnext has already used, this tool help remove dependency of postcss-cssnext.
